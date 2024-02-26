@@ -17,7 +17,7 @@ This is a simple weather application that fetches weather data from a third-part
 
 ## Usage
 
-- Live Demo :
+- Live Demo :  https://sri-sakthi-cb.github.io/Weather-App/
 
 ## Screenshots
 
