@@ -27,7 +27,8 @@ This is a simple weather application that fetches weather data from a third-part
 
 - After Searching for the particular City
 
-  ![image](https://github.com/Sri-Sakthi-CB/Weather-App/assets/95374074/689616d1-ef4b-4ee2-b187-03202e618f57)
+  ![image](https://github.com/Sri-Sakthi-CB/Weather-App/assets/95374074/04162a00-111e-4739-b639-8ff86c2d4611)
+
 
   ![image](https://github.com/Sri-Sakthi-CB/Weather-App/assets/95374074/5d8f2847-9cdf-48fc-88f9-122f6a678415)
 
